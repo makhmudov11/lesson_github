@@ -1,2 +1,2 @@
 # lesson_github
-lesson
+dars vazifalari
